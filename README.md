@@ -1,0 +1,2 @@
+# CameraAutomaticStandardize
+工具是对常用的工业相机进行自动标定
